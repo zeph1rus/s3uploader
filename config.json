@@ -1,0 +1,10 @@
+{
+    "monitor_location": "/tmp/fileupload",
+    "s3_acccesid": "blah",
+    "s3_accesskey": "blahblahblah",
+    "s3_hostname": "blah.amazonaws.com",
+    "filetype_filter": "mxf",
+    "logfile_location": "/tmp/fileupload.log",
+    "bucket_name": "jttestbucket443",
+    "num_threads": "4"
+}
